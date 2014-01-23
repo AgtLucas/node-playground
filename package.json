@@ -1,0 +1,12 @@
+{
+  "name": "node-playground",
+  "private": false,
+  "version": "0.0.1",
+  "description": "Playing with Node.js",
+  "dependencies": {},
+  "devDependencies": {
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
